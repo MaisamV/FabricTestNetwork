@@ -3,6 +3,7 @@ These scripts are used to start and deploy go chaincodes on fabric test network 
 
 # Install requirements
 If fabric prerequisites still not installed on your system, run the following command.
+NOTE: If you are running this from sanctioned countries you need to set an appropriate DNS first.
 ```./install_prerequisites.sh```
 
 # Start
